@@ -1,4 +1,4 @@
-# Exerc-cio_P1
+# Exercicio_P1
 
 
 4º Semestre - Sistemas para Internet
